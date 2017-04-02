@@ -18,7 +18,8 @@
   "homepage": "https://github.com/mahesh29/cid#readme",
   "dependencies": {
     "express": "^4.15.2",
-    "jade": "^1.11.0"
+    "jade": "^1.11.0",
+    "mongoose": "^4.9.2"
   },
   "devDependencies": {
     "bower": "^1.8.0"
