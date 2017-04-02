@@ -1,0 +1,16 @@
+{
+  "name": "workspace",
+  "description": "A project to test out Continuous Integration and Deployment using CodeShip",
+  "main": "index.js",
+  "authors": [
+    "Mahesh Bhandarkar"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mahesh29/cid",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "angular": "^1.6.4",
+    "bootstrap": "^3.3.7"
+  }
+}
